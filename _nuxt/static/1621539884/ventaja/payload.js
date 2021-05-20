@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/ventaja", {data:[{}],fetch:{},mutations:void 0});

@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/es/derecho_humano", {data:[{}],fetch:{},mutations:void 0});
